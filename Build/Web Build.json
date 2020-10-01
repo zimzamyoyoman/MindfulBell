@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mindful Bell",
+"productVersion": "0.1",
+"dataUrl": "Web Build.data.unityweb",
+"wasmCodeUrl": "Web Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Web Build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.6f1"
+}
